@@ -1,0 +1,6 @@
+{
+  "name": "Smart Vehicle Number Plate Detector",
+  "description": "An AI-powered computer vision system that detects vehicle number plates and extracts the registration number automatically using OpenCV, Machine Learning, and OCR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
